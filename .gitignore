@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+*.tif
+*.tiff
+data/
+output/
+.DS_Store
+Thumbs.db
